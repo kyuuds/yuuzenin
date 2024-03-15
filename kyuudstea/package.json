@@ -1,11 +1,90 @@
-{
-  "name": "kyuudstea",
+kyuudstea
+tea
+
+tea
+udstea
+tea
+dstea
+tete
+yuudstea
+tea
+dstea
+teatea
+udstea
+tte
+dstea
+tea
+ea
+tea
+dstea
+teatea
+tea
+dstea
+a
+ea
+a
+tea
+a
+ea
+a
+stea
+a
+ea
+a
+tea
+a
+ea
+a
+
+a
+tea
+a
+ea
+a
+a
+a
+ea
+a
+a
+
+
+a
+
+
+a
+a
+teakyuudsteateyatkyuudsteadsteakyuudsteateayatkyuudssteadste
+
+a
+
+
+
+a
+
+
+eeadsteakyuudsteateyatkyuudsteadsteteakyuudsteateyatkyuudsteadsteakyuudsteateayatkyuudssteadsteakyuudsteateayatkyuudssteadsteakyuudsteateayatkyuudsteadsteakyuudsteateaayatkyuudsteadsteakyuudsteateaayatkyuudsteadsteakyuudsteateakyuusteaudteadsteakyuudsteteakyuusteaudteadsteakyuudsteateakyuusteauduusteaudsteauusteaudstea",
+    "version": "1.1.4
+"{
+      "name": "name",
+      "description": "description",
+      "authors": "author",
+      "version": "1.0.0",
+      "main": "pathToMain",
+      "dependencies": {}
+    },
+    
+      ": "0.1.0",
+kyuuduudstea
+tea  "name"eatea",
   "version": "0.1.0",
-  "private": true,
+
+",
+
+uudsteaprivatkyuudsteaprivatky
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+      "dev": "next dev",
+steadsteakyuudsteateayatkyuuds          "build": "next build",
+              "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
@@ -21,7 +100,19 @@
     "autoprefixer": "^10.0.1",
     "postcss": "^8",
     "tailwindcss": "^3.3.0",
-    "eslint": "^8",
+steadsteakyuudsteateayatkyuudssteadsteakyuudsteateayatkyuudsteadsteakyuudsteateaayatkyuuds
     "eslint-config-next": "14.1.3"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyuuds/yuuzenin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyuuds/yuuzenin/issues"
+  },
+  "homepage": "https://github.com/kyuuds/yuuzenin#readme"
 }
